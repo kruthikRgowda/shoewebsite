@@ -54,6 +54,8 @@ export function FilterDrawer({ isOpen, onClose, onApply }: FilterDrawerProps) {
                         className="fixed inset-0 z-50 bg-black/40 backdrop-blur-sm"
                     />
 
+
+
                     {/* Drawer */}
                     <motion.div
                         initial={{ y: "100%" }}
