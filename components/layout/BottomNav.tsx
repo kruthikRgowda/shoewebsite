@@ -37,4 +37,7 @@ export function BottomNav() {
             <div className="h-safe-bottom" />
         </div>
     );
+
+
+
 }
