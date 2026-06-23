@@ -1,5 +1,8 @@
 import { BottomNav } from '@/components/layout/BottomNav';
 
+
+
+
 export default function OrdersPage() {
     return (
         <div className="min-h-screen bg-[#f9f9f7] flex flex-col items-center justify-center">
