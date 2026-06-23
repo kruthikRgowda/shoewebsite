@@ -9,6 +9,7 @@ export default function OrdersPage() {
             <h1 className="text-2xl font-bold mb-4">My Orders</h1>
             <p className="text-[#1a1a1a]/60">You have no active orders.</p>
             <BottomNav />
+
         </div>
     );
 }
